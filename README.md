@@ -1,4 +1,4 @@
-# papa-mathi
+# repositorio 1 en el curso de git hub
 primer repo creado en git hub
 
 ## description 
